@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x4fBC12d82884c0e36090148574dA77D250E45E47",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x4fbc12d82884c0e36090148574da77d250e45e47",
+  "CONTRACT_ADDRESS": "0x257e956c1b878322126069d9682c6a2b177b71c2",
+  "SCAN_LINK": "https://www.oklink.com/en/okc-test/tokenAddr/0x257e956c1b878322126069d9682c6a2b177b71c2",
   "NETWORK": {
-    "NAME": "Mumbai Testnet",
-    "SYMBOL": "Matic",
-    "ID": 80001
+    "NAME": "OKC",
+    "SYMBOL": "OKT",
+    "ID": 65
   },
-  "NFT_NAME": "JOIISSTTT",
-  "SYMBOL": "HJJJOISSS",
+  "NFT_NAME": "Ghost Halloween",
+  "SYMBOL": "GhosthOKC",
   "MAX_SUPPLY": 4444,
-  "WEI_COST": 25000000000000000,
-  "DISPLAY_COST": 0.025,
-  "GAS_LIMIT": 285000,,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/joiissttt",
+  "WEI_COST": 1500000000000000,
+  "DISPLAY_COST": 0.0015,
+  "GAS_LIMIT": 2850000,
+  "MARKETPLACE": "OKX",
+  "MARKETPLACE_LINK": "https://www.okx.com/web3/nft/markets/collection/okc/monkeysokc-1",
   "SHOW_BACKGROUND": true
 }
