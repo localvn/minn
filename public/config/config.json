@@ -1,14 +1,14 @@
 {
-  "CONTRACT_ADDRESS": "0x257e956c1b878322126069d9682c6a2b177b71c2",
-  "SCAN_LINK": "https://www.oklink.com/en/okc-test/tokenAddr/0x257e956c1b878322126069d9682c6a2b177b71c2",
+  "CONTRACT_ADDRESS": "0xbbfa6b6eb7eb19239de45275c0d1a78a3d7c1808",
+  "SCAN_LINK": "https://www.oklink.com/en/okc-test/tokenAddr/0xbbfa6b6eb7eb19239de45275c0d1a78a3d7c1808",
   "NETWORK": {
     "NAME": "OKC",
     "SYMBOL": "OKT",
     "ID": 65
   },
-  "NFT_NAME": "Ghost Halloween",
-  "SYMBOL": "GhosthOKC",
-  "MAX_SUPPLY": 4444,
+  "NFT_NAME": "zzggdkjgtsd",
+  "SYMBOL": "kjhjfhh",
+  "MAX_SUPPLY": 5555,
   "WEI_COST": 1500000000000000,
   "DISPLAY_COST": 0.0015,
   "GAS_LIMIT": 2850000,
